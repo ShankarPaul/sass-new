@@ -1,0 +1,4 @@
+@use 'custom' as *;
+@mixin gredient{
+    background: linear-gradient(to right, #000 30%, #4d4d4d 60%);
+}

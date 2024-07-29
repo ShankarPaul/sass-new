@@ -1,0 +1,6 @@
+@use 'custom' as *;
+@use 'mixin' as *;
+
+.faq{
+    @include gredient;
+}
